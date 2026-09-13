@@ -1,0 +1,23 @@
+2.gün .NET araçları ve yapılandırma konusunu
+
+// .NET6 hakkında bir yazı verilmiş ama Microsoft desteği 12 Kasım 2024’te sona ermiş
+//Bende de .NET8 yüklü sanırım o yüzden ben başka bir kaynak kullanacağım size yine de bırakıyorum kaynağı
+https://devblogs.microsoft.com/dotnet/announcing-net-6/
+
+https://learn.microsoft.com/tr-tr/dotnet/core/tools/
+
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-10.0
+
+
+"""
+Ne Yaptık?
+Proje Hazırlığı: 02-dotnet altında minik bir .NET konsol projesi (ConfigPlayground) ayağa kaldırdık.
+
+Paket Yönetimi: JSON okuyabilmek için dışarıdan .NET uzantılı NuGet paketleri ekledik.
+
+Veri Kaynağı: Proje köküne appsettings.json ekleyip ayarları tanımladık.
+
+Derleme Ayarı: .csproj dosyasına müdahale ederek JSON dosyasının bin/ çıkış klasörüne kopyalanmasını sağladık.
+
+Okuma Mantığı: ConfigurationBuilder zinciriyle bu dosyayı okuyup konsola yazdırdık (kaputun altındaki motoru gördük).
+""" 

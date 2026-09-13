@@ -3,12 +3,27 @@
 **/obj/
 /x86/
 /x64/
+**/publish/
+
+# Test / Tanılama (Diagnostics) çıktıları
+**/TestResults/
+*.gcdump
+*.etl
+*.dump
+
 
 # Visual Studio / VS Code
 .vs/
 *.user
 *.suo
 
+# Yerel NuGet paket klasörleri (varsa)
+**/packages/
+
 # İşletim sistemi kalıntıları
 Thumbs.db
+ehthumbs.db
+desktop.ini
 .DS_Store
+*.log
+*.tmp
