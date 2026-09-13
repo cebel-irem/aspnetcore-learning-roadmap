@@ -1,0 +1,14 @@
+1.gün 
+//Hiç bilmeyenler için 
+https://learn.microsoft.com/tr-tr/dotnet/csharp/tour-of-csharp/
+https://www.youtube.com/watch?v=vXPg5lNg6XA
+
+//Yazılım diline hakim ama c# bilmeyenler için
+https://learnxinyminutes.com/tr/csharp/
+
+
+2.gün 
+// Ben videoyu sadece c# daki oop kafamda otursun diye bir kısmını yaptım 
+//Tamamı yapılmak isteniyorsa Visual Studio Community kullanmak daha mantıklı olacaktır
+https://www.youtube.com/watch?v=EazrhHMySQw 
+

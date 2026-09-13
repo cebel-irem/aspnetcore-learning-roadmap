@@ -1,0 +1,14 @@
+# .NET / C# (Tüm alt klasörlerdeki bin/obj dahil)
+**/bin/
+**/obj/
+/x86/
+/x64/
+
+# Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+
+# İşletim sistemi kalıntıları
+Thumbs.db
+.DS_Store
