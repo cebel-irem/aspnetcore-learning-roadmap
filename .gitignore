@@ -1,3 +1,9 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
 # .NET / C# (Tüm alt klasörlerdeki bin/obj dahil)
 **/bin/
 **/obj/
@@ -16,6 +22,15 @@
 .vs/
 *.user
 *.suo
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core User Secrets
+appsettings.Development.json (gerekirse gizli veriler için)
+secrets.json
 
 # Yerel NuGet paket klasörleri (varsa)
 **/packages/

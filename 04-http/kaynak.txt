@@ -1,0 +1,4 @@
+send request yazısının GET metotudun hemen üstünde yazdığını başta göremedim
+
+//Medium platformunda güzel bu konuyla ilgili bir yazının linkini bırakıyorum
+https://medium.com/@bkubilay9/http-metotları-e63ccd3b30cf

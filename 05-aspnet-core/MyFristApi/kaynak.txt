@@ -1,0 +1,3 @@
+C# içindeki bir nesneyi (new { Id = id, ... }), web dünyasının ortak dili
+olan JSON formatına paketleyip 200 OK statü koduyla geri fırlattık.
+
